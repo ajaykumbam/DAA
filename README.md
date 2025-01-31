@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajaykumbam/DAA/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
