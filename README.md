@@ -12,6 +12,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ajaykumbam/DAA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ajaykumbam/DAA/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajaykumbam/DAA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/ajaykumbam/DAA/tree/master/0179-largest-number) |
 ## String Matching
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/ajaykumbam/DAA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/ajaykumbam/DAA/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/ajaykumbam/DAA/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ajaykumbam/DAA/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ajaykumbam/DAA/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ajaykumbam/DAA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
