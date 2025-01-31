@@ -30,10 +30,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/ajaykumbam/DAA/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/ajaykumbam/DAA/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
