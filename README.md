@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/ajaykumbam/DAA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/ajaykumbam/DAA/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajaykumbam/DAA/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ajaykumbam/DAA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
