@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajaykumbam/DAA/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/ajaykumbam/DAA/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaykumbam/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ajaykumbam/DAA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
