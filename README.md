@@ -11,6 +11,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajaykumbam/DAA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ajaykumbam/DAA/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/ajaykumbam/DAA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajaykumbam/DAA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/ajaykumbam/DAA/tree/master/0179-largest-number) |
 ## String Matching
@@ -51,6 +52,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ajaykumbam/DAA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajaykumbam/DAA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
