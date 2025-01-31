@@ -44,4 +44,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ajaykumbam/DAA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ajaykumbam/DAA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
